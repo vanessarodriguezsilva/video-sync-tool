@@ -15,6 +15,7 @@ This project is a platform for managing and synchronizing videos from **Vimeo** 
 ---
 
 ## 📂 **Project Structure**
+```
 video-sync-tool/
 ├── src/                              # Backend and server-side logic
 │   ├── db.js                         # MongoDB configuration and connection
@@ -52,6 +53,7 @@ video-sync-tool/
 ├── jsconfig.json                     # Path aliases configuration
 ├── package.json                      # Project dependencies and scripts
 └── yarn.lock / package-lock.json     # Dependency lock files
+```
 
 ---
 ## 🛠️ **Installation**
